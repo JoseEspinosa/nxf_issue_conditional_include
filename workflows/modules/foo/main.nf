@@ -1,3 +1,6 @@
+
+WorkflowFoo.initialise (params, log)
+
 process FOO {
     output:
     path 'foo.txt'
